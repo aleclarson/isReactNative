@@ -1,8 +1,8 @@
 {
   "name": "isReactNative",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "isReactNative.js",
-  "dependencies": {
-    "exposeToGlobal": "aleclarson/exposeToGlobal#1.0.0"
+  "react-native": {
+    "./off": "./on"
   }
 }
